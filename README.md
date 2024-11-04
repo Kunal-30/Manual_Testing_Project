@@ -1,6 +1,6 @@
 
-## **Book Shop Management System**
-# *Read Me*
+# **Book Shop Management System**
+## *Read Me*
 
  
 ## Introduction 
