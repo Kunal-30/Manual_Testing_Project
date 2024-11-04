@@ -1,7 +1,6 @@
-<div align="center">
-  ## **Book Shop Management System**
+
+## **Book Shop Management System**
 # *Read Me*
-</div>
 
  
 ## Introduction 
